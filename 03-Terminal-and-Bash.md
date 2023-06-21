@@ -60,3 +60,5 @@
 | xde-open      |   | to open image file from cmd line |
 
 =========================================================================
+
+grep -R "Megan,Patel" epscript/
