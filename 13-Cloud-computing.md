@@ -204,3 +204,5 @@ Note: Several fields will be inherited from Web-1 and Web-2
 |Allow HTTP | My IP Address:*| ServiceTag:80| HTTP   | TCP      | Allow  | 300     |
 ||| Virtual Network|||| 
 
+- Remove Deny any rule which was created on Day 1
+
